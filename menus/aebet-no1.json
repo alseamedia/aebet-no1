@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle aebet-no1",
+        "command": "aebet-no1:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "aebet-no1",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "aebet-no1:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

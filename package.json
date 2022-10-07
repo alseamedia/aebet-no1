@@ -1,0 +1,19 @@
+{
+  "name": "aebet-no1",
+  "main": "./lib/aebet-no1",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+    "aebet",
+  ],
+  "activationCommands": {
+    "atom-workspace": "aebet-no1:toggle"
+  },
+  "repository": "https://github.com/alseamedia/aebet-no1",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
